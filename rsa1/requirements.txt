@@ -1,0 +1,5 @@
+Flask >= 2.3.2
+requests
+PyQt5
+rsa >= 4.9
+ecdsa
